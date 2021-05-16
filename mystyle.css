@@ -1,0 +1,30 @@
+
+.heading{
+	font-family:  Verdana, "Lucida Sans Unicode", sans-serif;
+	font-style: "fett";
+	font-size: 100%;
+
+
+}
+#Feld{
+width: 60%;
+height: 60%;
+}
+
+#header1{
+	font-family: "Palatino";
+	font-size: 30px;
+	color: #008800;
+}
+
+#Linkpicture{
+	width: 70%;
+	height: 70%;
+}
+#headerrating{
+	font-family: "Palatino";
+	font-size: 30px;
+}
+<p>{
+	font-family: "Georgia", "serif";
+}
